@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "ts-node": "ts-node",
+    "multiply": "ts-node multiplier.ts",
+    "calculate": "ts-node calculator.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.25"
+  }
+}
